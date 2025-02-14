@@ -1,3 +1,5 @@
+## Разбор Датасета из Kaggle 
+
 Анализируем как такие факторы как: 
 индекс города, 
 пол, 
@@ -11,4 +13,4 @@
 Во второй папке(Визуализация), представлены графики и диаграммы)
 
 # Ссылка на Dataset: 
-https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists/suggestions?status=pending&yourSuggestions=true
+* [Kaggle](https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists/suggestions?status=pending&yourSuggestions=true)
